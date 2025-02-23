@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//i.e. 123456 to 654321
 int reverse(int n) {
     int reversed = 0;
     while (n != 0) {
