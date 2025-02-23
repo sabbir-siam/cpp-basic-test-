@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Harmonic series: (1/1)+(1/2)+(1/3)+............+(1/n)
 double Series(int n) {
     double sum = 0.0;
     cout << "Series: ";
